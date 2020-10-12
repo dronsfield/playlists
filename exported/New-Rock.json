@@ -1,0 +1,236 @@
+[
+  {
+    "index": 1,
+    "name": "White T-Shirt and Jeans",
+    "artist": "Dinosaur Pile-Up",
+    "album": "Nature Nurture"
+  },
+  {
+    "index": 2,
+    "name": "Back Foot",
+    "artist": "Dinosaur Pile-Up",
+    "album": "Celebrity Mansions"
+  },
+  {
+    "index": 3,
+    "name": "11:11",
+    "artist": "Dinosaur Pile-Up",
+    "album": "Eleven Eleven"
+  },
+  {
+    "index": 4,
+    "name": "Tyrant Lizard King",
+    "artist": "Frank Carter & The Rattlesnakes",
+    "album": "End of Suffering"
+  },
+  {
+    "index": 5,
+    "name": "Electric Feel",
+    "artist": "Turbowolf",
+    "album": "Turbowolf"
+  },
+  {
+    "index": 6,
+    "name": "Black Magic",
+    "artist": "The Amazons",
+    "album": "The Amazons (Deluxe)"
+  },
+  {
+    "index": 7,
+    "name": "bernard trigger",
+    "artist": "cleopatrick",
+    "album": "bernard trigger"
+  },
+  {
+    "index": 8,
+    "name": "hometown",
+    "artist": "cleopatrick",
+    "album": "hometown"
+  },
+  {
+    "index": 9,
+    "name": "Hesitations",
+    "artist": "Fangclub",
+    "album": "Vulture Culture"
+  },
+  {
+    "index": 10,
+    "name": "Peninsula",
+    "artist": "Dinosaur Pile-Up",
+    "album": "Nature Nurture"
+  },
+  {
+    "index": 11,
+    "name": "Autoportrait",
+    "artist": "Demob Happy",
+    "album": "Autoportrait"
+  },
+  {
+    "index": 12,
+    "name": "Crowbar",
+    "artist": "Frank Carter & The Rattlesnakes",
+    "album": "End of Suffering"
+  },
+  {
+    "index": 13,
+    "name": "In My Mind",
+    "artist": "The Amazons",
+    "album": "The Amazons (Deluxe)"
+  },
+  {
+    "index": 14,
+    "name": "She Waits for Me",
+    "artist": "Pastel",
+    "album": "She Waits for Me"
+  },
+  {
+    "index": 15,
+    "name": "Mind Eraser, No Chaser",
+    "artist": "Them Crooked Vultures",
+    "album": "Them Crooked Vultures"
+  },
+  {
+    "index": 16,
+    "name": "New Fang",
+    "artist": "Them Crooked Vultures",
+    "album": "Them Crooked Vultures"
+  },
+  {
+    "index": 17,
+    "name": "What Can I Do If the Fire Goes Out?",
+    "artist": "Gang of Youths",
+    "album": "Go Farther in Lightness"
+  },
+  {
+    "index": 18,
+    "name": "When The Curtain Falls",
+    "artist": "Greta Van Fleet",
+    "album": "Anthem Of The Peaceful Army"
+  },
+  {
+    "index": 19,
+    "name": "Lampshades on Fire",
+    "artist": "Modest Mouse",
+    "album": "Strangers to Ourselves"
+  },
+  {
+    "index": 20,
+    "name": "Come with Me Now",
+    "artist": "KONGOS",
+    "album": "Lunatic"
+  },
+  {
+    "index": 21,
+    "name": "S.O.S. (Sawed Off Shotgun)",
+    "artist": "The Glorious Sons",
+    "album": "Young Beauties and Fools"
+  },
+  {
+    "index": 22,
+    "name": "I'm A Wanted Man",
+    "artist": "Royal Deluxe",
+    "album": "Born for This"
+  },
+  {
+    "index": 23,
+    "name": "Lydia",
+    "artist": "Highly Suspect",
+    "album": "Mister Asylum"
+  },
+  {
+    "index": 24,
+    "name": "Stupid Heavy Metal Broken Hearted Loser Punk",
+    "artist": "Dinosaur Pile-Up",
+    "album": "Celebrity Mansions"
+  },
+  {
+    "index": 25,
+    "name": "Wisdom Tooth",
+    "artist": "The Pale White",
+    "album": "Wisdom Tooth"
+  },
+  {
+    "index": 26,
+    "name": "End of Time",
+    "artist": "The Pale White",
+    "album": "End of Time"
+  },
+  {
+    "index": 27,
+    "name": "Medicine",
+    "artist": "The Pale White",
+    "album": "Medicine"
+  },
+  {
+    "index": 28,
+    "name": "The Runner",
+    "artist": "Foals",
+    "album": "Part 2 Everything Not Saved Will Be Lost"
+  },
+  {
+    "index": 29,
+    "name": "Beyond The Wave",
+    "artist": "Of Allies",
+    "album": "Beyond The Wave"
+  },
+  {
+    "index": 30,
+    "name": "My Number",
+    "artist": "Foals",
+    "album": "Holy Fire"
+  },
+  {
+    "index": 31,
+    "name": "Mountain at My Gates",
+    "artist": "Foals",
+    "album": "What Went Down"
+  },
+  {
+    "index": 32,
+    "name": "Exits",
+    "artist": "Foals",
+    "album": "Part 1 Everything Not Saved Will Be Lost"
+  },
+  {
+    "index": 33,
+    "name": "In Degrees",
+    "artist": "Foals",
+    "album": "Part 1 Everything Not Saved Will Be Lost"
+  },
+  {
+    "index": 34,
+    "name": "Kitty Sucker",
+    "artist": "Frank Carter & The Rattlesnakes",
+    "album": "End of Suffering"
+  },
+  {
+    "index": 35,
+    "name": "Kids",
+    "artist": "PUP",
+    "album": "Morbid Stuff"
+  },
+  {
+    "index": 36,
+    "name": "Thrash Metal Cassette",
+    "artist": "Dinosaur Pile-Up",
+    "album": "Thrash Metal Cassette"
+  },
+  {
+    "index": 37,
+    "name": "All Fall Down",
+    "artist": "Fangclub",
+    "album": "All Fall Down"
+  },
+  {
+    "index": 38,
+    "name": "Follow",
+    "artist": "Fangclub",
+    "album": "Coma Happy"
+  },
+  {
+    "index": 39,
+    "name": "Nightmare",
+    "artist": "Fangclub",
+    "album": "Vulture Culture"
+  }
+]
