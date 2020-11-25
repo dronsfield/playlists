@@ -1,7 +1,7 @@
 // - view a playlist WITH open.spotify.com
-// - change totalNumber to the number of songs in the playlist
 // - paste the following function into the console
 // - scroll about until the console outputs the tracks as json
+// - Note: CLASS may get outdated
 
 ;(function () {
   const CLASS = "f6a6c11d18da1af699a0464367e2189a-scss"
