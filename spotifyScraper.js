@@ -1,12 +1,14 @@
 // - view a playlist WITH open.spotify.com
-// - change TOTAL_NUMBER to the number of songs in the playlist
 // - paste the following function into the console
 // - scroll about until the console outputs the tracks as json
+// - Note: CLASS may get outdated
 
 ;(function () {
-  const TOTAL_NUMBER = 39
+  const CLASS = "f6a6c11d18da1af699a0464367e2189a-scss"
+  
+  const totalNumber = document.querySelector(`[class="${CLASS}"]`).innerHTML.split(" songs")[0]
 
-  const tracks = new Array(TOTAL_NUMBER + 1).fill(null)
+  const tracks = new Array(totalNumber + 1).fill(null)
 
   function addTracks() {
     document.querySelectorAll(`[data-testid="tracklist-row"]`).forEach((el) => {
@@ -48,14 +50,14 @@
     const tracksSoFar = tracks.filter(Boolean).length
     if (ii % (1000 / INTERVAL_MS) === 0) {
       console.log(`TRACKS SCRAPED SO FAR: ${tracksSoFar}`)
-      if (tracksSoFar < TOTAL_NUMBER && tracksSoFar >= TOTAL_NUMBER * 0.9) {
+      if (tracksSoFar < totalNumber && tracksSoFar >= totalNumber * 0.9) {
         const missingTracks = Object.keys(tracks)
           .slice(1)
           .filter((key) => !tracks[key])
         console.log(`MISSING TRACK #s: ${missingTracks.join()}`)
       }
     }
-    if (tracksSoFar >= TOTAL_NUMBER) {
+    if (tracksSoFar >= totalNumber) {
       exportTracks()
     }
   }, 200)
